@@ -183,6 +183,9 @@ h1 {
 .works img:last-child {
 	float: right;
 }
+.works img:hover {
+	transform: scale(1.1);
+}
 .about h3{
 	font-size: 18px;
 	margin-bottom: 5px;	
