@@ -125,7 +125,7 @@ h1 {
 }
 
 .title {
- 	padding-top: 115px;	
+ 	padding-top: 75px;	
 }
 .title h2{
 	font-size: 40px;
@@ -172,7 +172,7 @@ h1 {
 	padding-bottom: 120px;
 }
 .works {
-	margin-top: 70px;
+	margin-top: 35px;
 }
 .works img {
 	float: left;
